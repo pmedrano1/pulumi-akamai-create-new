@@ -1,0 +1,18 @@
+encryptionsalt: v1:LgU/ekEFv40=:v1:Zos1GMg5WbfeKv2f:LvoGH+beHJAw4k3OpiqBpz+cFOWJmg==
+config:
+  akamai:edgerc: /Users/XXXXXXX/.edgerc
+  akamai-pulumi-learn:contractId: ctr_XXXXXXX
+  akamai-pulumi-learn:groupId: grp_XXXXXXX
+  akamai-pulumi-learn:productId: prd_Adaptive_Media_Delivery
+  akamai-pulumi-learn:propertyName: paulm-pulumi-amd-property
+  akamai-pulumi-learn:originHostname: origin.XXXXXXXXX.net
+  akamai-pulumi-learn:ruleFormat: latest
+  akamai-pulumi-learn:cacheTtl: 10m
+  akamai-pulumi-learn:ipBehavior: IPV4
+  akamai-pulumi-learn:edgeHostnameTtl: "300"
+  akamai-pulumi-learn:edgeHostnameUseCases: DOWNLOAD
+  akamai-pulumi-learn:autoAcknowledgeRuleWarnings: "true"
+  akamai:configSection: pulumi
+  akamai-pulumi-learn:edgeHostname: paulm2-pulumi-amd.akamaized.net
+  akamai-pulumi-learn:propertyHostname: paulm2-pulumi-amd.akamaized.net
+  akamai-pulumi-learn:activateNetwork: STAGING

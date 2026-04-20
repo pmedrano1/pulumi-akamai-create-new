@@ -1,0 +1,11 @@
+name: akamai-pulumi-learn
+description: Learn Pulumi with Akamai Property Manager and TTL updates
+runtime:
+  name: python
+  options:
+    toolchain: pip
+    virtualenv: venv
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: python
