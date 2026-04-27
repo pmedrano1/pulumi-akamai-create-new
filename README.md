@@ -94,4 +94,3 @@ Look for `X-Cache: TCP_HIT` to confirm the content is being served from the Akam
 
 ***
 
-**If you like, I can also add a section to this README explaining how to manage multiple "Stacks" (like Dev, QA, and Prod) so you can test changes in isolation. Do you want me to do that?**
