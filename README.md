@@ -1,7 +1,3 @@
-This **README** is designed for the specific **Akamai AMD Pulumi project** we just finished building. It covers the prerequisites, configuration keys, and the "Barebones" logic required to get the deployment running successfully.
-
-***
-
 # Akamai AMD Deployment with Pulumi
 
 This repository contains a **Pulumi** project written in **Python** to deploy a barebones **Akamai Adaptive Media Delivery (AMD)** configuration. 
