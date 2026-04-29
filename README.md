@@ -33,7 +33,7 @@ Before running this project, ensure you have the following:
     ```bash
     python3 -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    pip install pulumi pulumi_akamai
+    pip install -r requirements.txt
     ```
 
 3.  **Configure your stack:**
