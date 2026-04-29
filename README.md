@@ -40,6 +40,7 @@ Before running this project, ensure you have the following:
     You must set the following configuration variables for the project to work:
 
     ```bash
+    pulumi stack init dev
     pulumi config set contractId "ctr_XXXXXX"
     pulumi config set groupId "grp_XXXXXX"
     pulumi config set productId "prd_Adaptive_Media_Delivery"
